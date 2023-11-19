@@ -1,0 +1,26 @@
+.nav {
+    margin: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem 1rem;
+    border-bottom: 1px solid #fff;
+}
+.logoPic {
+    margin-right: 1rem;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+}
+.nameLogoBox {
+    display: flex;
+    align-items: center;
+}
+.nameLogoBox span {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.ul1 {
+    display: none;
+}

@@ -1,0 +1,19 @@
+.ul {
+    margin-top: 1rem;
+    padding: 0.3rem 1rem;
+    border: 1px solid #fff;
+    list-style-type: none;
+}
+.ul li {
+    font-size: 1.1rem;
+    font-weight: 500;
+    width: 10rem;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+.ul li:hover {
+    border: 1px solid aqua;
+}
+.menuIcon {
+    margin-top: 0.4rem;
+}
